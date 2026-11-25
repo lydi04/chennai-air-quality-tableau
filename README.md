@@ -28,5 +28,7 @@ An interactive Tableau dashboard analysing air quality (AQI) and weather across 
 
 ## Tools
 Tableau Public
-## Live dashboard:https://public.tableau.com/app/profile/antanet.lydia.a/viz/ChennaiAirQualityWeatherDashboard/ChennaiAirQualityWeatherDashboard
+
+## Live dashboard
+- https://public.tableau.com/app/profile/antanet.lydia.a/viz/ChennaiAirQualityWeatherDashboard/ChennaiAirQualityWeatherDashboard
 
