@@ -4,7 +4,7 @@ Note: This project uses a synthetic dataset to practise dashboard building. The 
 
 An interactive Tableau dashboard analysing air quality (AQI) and weather across 10 areas of Chennai.
 
-![Dashboard](Dashboard_image.png)
+![Dashboard](Dashboard.png)
 
 ## Dataset
 - 3,650 daily records, 10 Chennai areas, January to December 2025
